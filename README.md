@@ -19,7 +19,7 @@
 - 📄 Know about my profile [https://drive.google.com/drive/u/0/folders/1BU1oC6yizc2lDYZG1805Za1v3uHLDMIM](https://drive.google.com/drive/u/0/folders/1BU1oC6yizc2lDYZG1805Za1v3uHLDMIM)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"><img src="https://www.linkedin.com/in/nivedita-k-3469b727a/"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
