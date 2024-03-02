@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Nivedita Arya K</h1>
-<h3 align="center">About Me I'm an AI/ML enthusiast with a passion for mobile app development using Flutter.</h3>
+<h3 align="center">About Me I'm an AI/ML enthusiast passionate about mobile app development using Flutter.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niveditaaryak&label=Profile%20views&color=0e75b6&style=flat" alt="niveditaaryak" /> </p>
 
 - 🔭 I’m currently working on [SentimentAnalysisOnTwitterTweets](https://github.com/NiveditaAryaK/SentimentAnalysisOnTwitterTweets)
 
-- 👻 I’m currently learning **LLMS,hyperparameter tuning,Sentment Analysis**
+- 👻 I’m currently learning **LLMS,hyperparameter tuning,Sentiment Analysis**
 
 - 👯 I’m looking to collaborate on **AIML Projects**
 
@@ -19,7 +19,7 @@
 - 📄 Know about my profile [https://drive.google.com/drive/u/0/folders/1BU1oC6yizc2lDYZG1805Za1v3uHLDMIM](https://drive.google.com/drive/u/0/folders/1BU1oC6yizc2lDYZG1805Za1v3uHLDMIM)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><img src="https://www.linkedin.com/in/nivedita-k-3469b727a/"/>
+<p align="left"><link rel="https://www.linkedin.com/in/nivedita-k-3469b727a/"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
