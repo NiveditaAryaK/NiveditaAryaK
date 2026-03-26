@@ -5,15 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niveditaaryak&label=Profile%20views&color=0e75b6&style=flat" alt="niveditaaryak" /> </p>
 
-- 🔭 I’m currently working on [SentimentAnalysisOnTwitterTweets](https://github.com/NiveditaAryaK/SentimentAnalysisOnTwitterTweets)
+- 🔭 I’m currently working on generative ai related projects and hackathons.
 
-- 👻 I’m currently learning **LLMS,hyperparameter tuning,Sentiment Analysis**
-
-- 👯 I’m looking to collaborate on **AIML Projects**
+- 👻 If you wanna participate with me hit me up!
 
 - 👨‍💻 All of my projects are available at [https://github.com/NiveditaAryaK](https://github.com/NiveditaAryaK)
-
-- 👀 I'm interested in **ML,DL,App Development**
 
 - 📫 How to reach me **niveditaaryak2@gmail.com**
 
