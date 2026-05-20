@@ -1,24 +1,24 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=220&section=header&text=VECTOR%20SYSTEMS&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+**<img src="output.gif" width="100%"/>
 
-<h1 align="center">Hey 👋 I'm Nivedita</h1>
+<h1 align="center">Hey 👋 I'm Nivedita 🐾</h1>
 
 <h3 align="center">
 AI Engineer • GenAI Builder • Backend Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Building+LLM+Agents+%26+RAG+Systems;FastAPI+%7C+React+%7C+GenAI;Real-Time+AI+Infrastructure;Multi-Agent+AI+Systems;AI+Engineer+%7C+Hackathon+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=C770F0&center=true&vCenter=true&width=850&lines=Building+intelligent+systems;FastAPI+%7C+React+%7C+GenAI;Multi-Agent+AI+Systems;Real-Time+AI+Infrastructure;Always+learning.+Always+building." />
 </p>
 
 ---
 
 ```bash
-visitor@vector:~$ whoami
+visitor@meow:~$ whoami
 
 Nivedita Arya K
 AI Engineer | GenAI Builder | Backend Developer
 
-visitor@vector:~$ current_focus
+visitor@meow:~$ current_focus
 
 > Multi-Agent Systems
 > RAG Architectures
@@ -26,34 +26,18 @@ visitor@vector:~$ current_focus
 > Real-Time Applications
 > Scalable Backend Systems
 
-visitor@vector:~$ status
+visitor@meow:~$ status
 
-Initializing VECTOR_OS...
+Initializing systems...
 Loading AI modules...
 Connecting neural pipelines...
-System ready.
+System ready. Let's build cool things! ✨
 ```
 
 ---
 
-# 🚀 Featured Projects
-
-## 🧠 Luminary
-Real-time AI storytelling platform using FastAPI, WebSockets, Firebase, and multimodal AI.
-
-## 🚗 ParkAI
-Hybrid YOLO-based smart parking system with reservation, live detection, and AI-powered monitoring.
-
-## 🤖 AI App Generator
-Agentic platform generating full-stack applications from prompts using React + Express.
-
-## 📊 KPI / RCA Dashboard
-AI-assisted KPI analytics and RCA platform with real-time monitoring and generalized workflows.
-
----
-
 <details>
-<summary>📂 skills</summary>
+<summary>📂 skills.exe</summary>
 
 <br>
 
@@ -101,7 +85,7 @@ AI-assisted KPI analytics and RCA platform with real-time monitoring and general
 ---
 
 <details>
-<summary>📂 currently_learning</summary>
+<summary>📂 currently_learning.log</summary>
 
 <br>
 
@@ -113,6 +97,8 @@ learning_stack:
   - LLM Infrastructure
   - Distributed Systems
   - Scalable RAG Pipelines
+
+status: in_progress
 ```
 
 </details>
@@ -120,19 +106,21 @@ learning_stack:
 ---
 
 <details>
-<summary>📂 fun_fact</summary>
+<summary>📂 fun_fact.cat</summary>
 
 <br>
 
 ```console
-I probably treat debugging like a detective thriller.
+(\_/)
+( •.•)
+/ >🧠   I probably treat debugging like a detective thriller.
 ```
 
 </details>
 
 ---
 
-# ⚙️ Tech Stack
+# ⚙️ tech_stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,express,flutter,angular,docker,aws,firebase,mongodb,postgres,tensorflow,pytorch,git,github,vscode,linux" />
@@ -140,52 +128,50 @@ I probably treat debugging like a detective thriller.
 
 ---
 
-# 📈 GitHub Stats
+# 📈 github_stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiveditaAryaK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NiveditaAryaK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=C770F0&icon_color=C770F0&text_color=FFFFFF" height="180"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiveditaAryaK&theme=tokyonight&hide_border=true&background=00000000" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiveditaAryaK&theme=tokyonight&hide_border=true&background=00000000&ring=C770F0&fire=C770F0&currStreakLabel=C770F0" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiveditaAryaK&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiveditaAryaK&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=C770F0&text_color=FFFFFF"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 connect_with_me
 
 <p align="center">
   <a href="https://github.com/NiveditaAryaK">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=C770F0"/>
   </a>
 
   <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=C770F0"/>
   </a>
 
   <a href="mailto:s9362558@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=C770F0"/>
   </a>
 </p>
 
 ---
 
 ```yaml
-boot_sequence:
-  initializing: VECTOR_OS
-  loading:
-    - AI Agents
-    - RAG Pipelines
-    - Real-Time Systems
-    - Neural Interfaces
-    - Backend Services
-  status: READY
+system_uptime:
+  building: true
+  learning: true
+  shipping: true
+  mode: 24/7
 ```
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:8A2BE2&height=140&section=footer"/>
+  ✨ Thanks for stopping by! Have a purrfect day! 🐾
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:C770F0&height=120&section=footer"/>**
