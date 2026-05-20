@@ -7,7 +7,7 @@ AI Engineer • Backend Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=C770F0&center=true&vCenter=true&width=850&lines=Building+intelligent+systems;FastAPI+%7C+React+%7C+GenAI;Multi-Agent+AI+Systems;Real-Time+AI+Infrastructure;Always+learning.+Always+building." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=C770F0&center=true&vCenter=true&width=850&lines=Building+intelligent+systems;%7C+GenAI;Multi-Agent+AI+Systems;Real-Time+AI+Infrastructure;Always+learning.+Always+building." />
 </p>
 
 ---
