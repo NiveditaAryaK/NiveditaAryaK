@@ -16,7 +16,7 @@ AI Engineer • Backend Developer
 visitor@meow:~$ whoami
 
 Nivedita Arya K
-AI Engineer | GenAI Builder | Backend Developer
+AI Engineer | Backend Developer
 
 visitor@meow:~$ current_focus
 
