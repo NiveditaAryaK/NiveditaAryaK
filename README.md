@@ -1,9 +1,9 @@
-**<img src="output.gif" width="100%"/>
+**<img src="https://t4.ftcdn.net/jpg/09/11/73/09/360_F_911730942_vNc0Q61mBzzAQBbetd2YeoWB1uTRCnNL.jpg" width="100%"/>
 
-<h1 align="center">Hey 👋 I'm Nivedita 🐾</h1>
+<h1 align="center">Hi 👋 I'm Nivedita 🐾</h1>
 
 <h3 align="center">
-AI Engineer • GenAI Builder • Backend Developer
+AI Engineer • Backend Developer
 </h3>
 
 <p align="center">
@@ -43,8 +43,7 @@ System ready. Let's build cool things! ✨
 
 ### 💻 Languages
 - Python
-- TypeScript
-- JavaScript
+- C
 - C++
 
 ### ⚙️ Backend
@@ -66,7 +65,6 @@ System ready. Let's build cool things! ✨
 ### 🎨 Frontend
 - React
 - Flutter
-- Angular
 
 ### ☁️ DevOps & Cloud
 - Docker
@@ -113,7 +111,7 @@ status: in_progress
 ```console
 (\_/)
 ( •.•)
-/ >🧠   I probably treat debugging like a detective thriller.
+/ >🧠   I would write code drunk if my code didn't look drunk enough already.
 ```
 
 </details>
@@ -123,7 +121,7 @@ status: in_progress
 # ⚙️ tech_stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,express,flutter,angular,docker,aws,firebase,mongodb,postgres,tensorflow,pytorch,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,express,flutter,docker,aws,firebase,mongodb,postgres,tensorflow,pytorch,git,github,vscode,linux" />
 </p>
 
 ---
@@ -149,11 +147,11 @@ status: in_progress
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=C770F0"/>
   </a>
 
-  <a href="https://linkedin.com">
+  <a href="https://linkedin.com/in/nivedita-arya-k">
     <img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=C770F0"/>
   </a>
 
-  <a href="mailto:s9362558@gmail.com">
+  <a href="mailto:niveditaaryak2@gmail.com">
     <img src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=C770F0"/>
   </a>
 </p>
@@ -173,5 +171,3 @@ system_uptime:
 <p align="center">
   ✨ Thanks for stopping by! Have a purrfect day! 🐾
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:C770F0&height=120&section=footer"/>**
