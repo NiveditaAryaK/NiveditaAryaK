@@ -1,29 +1,191 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=220&section=header&text=VECTOR%20SYSTEMS&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<h1 align="center">Hi 👋, I'm Nivedita Arya K</h1>
-<h3 align="center">About Me: 
-  I'm an AI/ML enthusiast.</h3>
+<h1 align="center">Hey 👋 I'm Nivedita</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niveditaaryak&label=Profile%20views&color=0e75b6&style=flat" alt="niveditaaryak" /> </p>
+<h3 align="center">
+AI Engineer • GenAI Builder • Backend Developer
+</h3>
 
-- 🔭 I’m currently working on generative ai related projects and hackathons.
-
-- 👻 If you wanna participate with me hit me up!
-
-- 👨‍💻 All of my projects are available at [https://github.com/NiveditaAryaK](https://github.com/NiveditaAryaK)
-
-- 📫 How to reach me **niveditaaryak2@gmail.com**
-
-- 📄 Know about my profile [https://drive.google.com/drive/u/0/folders/1BU1oC6yizc2lDYZG1805Za1v3uHLDMIM](https://drive.google.com/drive/u/0/folders/1BU1oC6yizc2lDYZG1805Za1v3uHLDMIM)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">Linkedln:<a href="https://www.linkedin.com/in/nivedita-k-3469b727a/">Click here</a
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Building+LLM+Agents+%26+RAG+Systems;FastAPI+%7C+React+%7C+GenAI;Real-Time+AI+Infrastructure;Multi-Agent+AI+Systems;AI+Engineer+%7C+Hackathon+Builder" />
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+```bash
+visitor@vector:~$ whoami
 
-![NiveditaAryaK's Stats](https://github-readme-stats.vercel.app/api?username=NiveditaAryaK&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
-![NiveditaAryaK's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NiveditaAryaK&theme=synthwave&hide_border=true)
-![NiveditaAryaK's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiveditaAryaK&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
+Nivedita Arya K
+AI Engineer | GenAI Builder | Backend Developer
 
+visitor@vector:~$ current_focus
+
+> Multi-Agent Systems
+> RAG Architectures
+> AI Infrastructure
+> Real-Time Applications
+> Scalable Backend Systems
+
+visitor@vector:~$ status
+
+Initializing VECTOR_OS...
+Loading AI modules...
+Connecting neural pipelines...
+System ready.
+```
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 Luminary
+Real-time AI storytelling platform using FastAPI, WebSockets, Firebase, and multimodal AI.
+
+## 🚗 ParkAI
+Hybrid YOLO-based smart parking system with reservation, live detection, and AI-powered monitoring.
+
+## 🤖 AI App Generator
+Agentic platform generating full-stack applications from prompts using React + Express.
+
+## 📊 KPI / RCA Dashboard
+AI-assisted KPI analytics and RCA platform with real-time monitoring and generalized workflows.
+
+---
+
+<details>
+<summary>📂 skills</summary>
+
+<br>
+
+### 💻 Languages
+- Python
+- TypeScript
+- JavaScript
+- C++
+
+### ⚙️ Backend
+- FastAPI
+- Express.js
+- Flask
+- Node.js
+
+### 🧠 AI / ML
+- LangChain
+- RAG
+- ChromaDB
+- FAISS
+- PyTorch
+- TensorFlow
+- OpenAI APIs
+- Gemini APIs
+
+### 🎨 Frontend
+- React
+- Flutter
+- Angular
+
+### ☁️ DevOps & Cloud
+- Docker
+- AWS
+- Firebase
+- GitHub Actions
+- NGINX
+
+### 🗄️ Databases
+- MongoDB
+- PostgreSQL
+- MySQL
+
+</details>
+
+---
+
+<details>
+<summary>📂 currently_learning</summary>
+
+<br>
+
+```yaml
+learning_stack:
+  - Advanced System Design
+  - AI Observability
+  - Multi-Agent Architectures
+  - LLM Infrastructure
+  - Distributed Systems
+  - Scalable RAG Pipelines
+```
+
+</details>
+
+---
+
+<details>
+<summary>📂 fun_fact</summary>
+
+<br>
+
+```console
+I probably treat debugging like a detective thriller.
+```
+
+</details>
+
+---
+
+# ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,express,flutter,angular,docker,aws,firebase,mongodb,postgres,tensorflow,pytorch,git,github,vscode,linux" />
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NiveditaAryaK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiveditaAryaK&theme=tokyonight&hide_border=true&background=00000000" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiveditaAryaK&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/NiveditaAryaK">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:s9362558@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+```yaml
+boot_sequence:
+  initializing: VECTOR_OS
+  loading:
+    - AI Agents
+    - RAG Pipelines
+    - Real-Time Systems
+    - Neural Interfaces
+    - Backend Services
+  status: READY
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:8A2BE2&height=140&section=footer"/>
+</p>
